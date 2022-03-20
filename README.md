@@ -1,8 +1,8 @@
-# grove_i2c_driver_motor_micropython
+# grove_i2c_driver_motor
 
 Destiné à un ESP32 flashé avec micropython
 
-grove_mp_driver_moteur.py
+esp_grove_driver_moteur.py
 
 permet de piloter 1 ou 2 moteurs DC
 

@@ -1,3 +1,6 @@
+# bibliothèque pour ESP32 flashé micropython
+# écrit à partir de la version micro:bit (GcWorks.fr)
+# F. SAULIN 2022
 from machine import Pin, I2C
 import time
 
