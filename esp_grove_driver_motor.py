@@ -7,7 +7,7 @@ import time
 i2c = I2C(0,scl=Pin(22), sda=Pin(21), freq=20000)
 
 
-class mp_driver_moteur:
+class mp_driver_motor:
     def __init__(self):
         time.sleep_ms(10)
         self.m1_dir = self.m2_dir = 1

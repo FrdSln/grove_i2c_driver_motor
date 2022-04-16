@@ -2,7 +2,7 @@
 from machine import ADC, Pin
 from time import *
 
-from esp_grove_driver_moteur import *
+from esp_grove_driver_motor import *
 dm = mp_driver_moteur()
 
 # 2 moteurs sens 1
